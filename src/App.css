@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin-top: 100px;
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+h1 {
+  color: #3f51b5;
+}
+
+h2 {
+  color: #555;
+}
+
+body {
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
